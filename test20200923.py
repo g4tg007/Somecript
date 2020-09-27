@@ -17,6 +17,12 @@ password:admin do not send to src
 后台 代码不泄露
 测试数据 啥也不是
 
+
+
+"@babel/compat-data@^7.10.1":
+  version "7.10.1"
+  resolved "http://r.npm.sankuai.com/@babel/compat-data/download/@babel/compat-data-7.10.1.tgz#b1085ffe72cd17bf2c0ee790fc09f9626011b2db"
+
 kylink
 x86 Shutdown Cause: 0xc1
 x86 Previous Power Transitions: 0x20002000200
